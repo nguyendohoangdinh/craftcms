@@ -1,0 +1,20 @@
+/.env
+/.idea
+/vendor
+.DS_Store
+/server
+
+#NODEJS
+node_modules/
+web/assets/css/
+
+#product images
+web/images
+
+#Js
+web/assets/js/main.min.js
+web/assets/css/style.min.css
+web/assets/css/style.css
+
+templates/index.html
+
